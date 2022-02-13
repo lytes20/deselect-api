@@ -1,0 +1,27 @@
+{
+  "name": "deselect-api",
+  "version": "1.0.0",
+  "description": "DESelect API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "populate": "node populatedb.js"
+  },
+  "keywords": [
+    "api",
+    "backend",
+    "nodeJS",
+    "expressJS"
+  ],
+  "author": "Gideon Bamuleseyo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
