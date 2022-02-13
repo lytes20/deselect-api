@@ -5,8 +5,8 @@
 
 ## To install and run project locally
 
-    $ git 
-    $ cd
+    $ git https://github.com/lytes20/deselect-api.git
+    $ cd deselect-api
     $ npm install
 
 ### In Dev or Local
